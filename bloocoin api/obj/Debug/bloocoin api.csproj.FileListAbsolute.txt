@@ -1,0 +1,6 @@
+c:\users\rodi\documents\visual studio 2012\Projects\bloocoin api\bloocoin api\obj\Debug\bloocoin api.csprojResolveAssemblyReference.cache
+c:\users\rodi\documents\visual studio 2012\Projects\bloocoin api\bloocoin api\bin\Debug\bloocoin api.dll
+c:\users\rodi\documents\visual studio 2012\Projects\bloocoin api\bloocoin api\bin\Debug\bloocoin api.pdb
+c:\users\rodi\documents\visual studio 2012\Projects\bloocoin api\bloocoin api\bin\Debug\BouncyCastle.Crypto.dll
+c:\users\rodi\documents\visual studio 2012\Projects\bloocoin api\bloocoin api\obj\Debug\bloocoin api.dll
+c:\users\rodi\documents\visual studio 2012\Projects\bloocoin api\bloocoin api\obj\Debug\bloocoin api.pdb
